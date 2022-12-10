@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.582
+
+### Patch Changes
+
+- add declaration for vitePreprocess reexport ([#8053](https://github.com/sveltejs/kit/pull/8053))
+
 ## 1.0.0-next.581
 
 ### Patch Changes
